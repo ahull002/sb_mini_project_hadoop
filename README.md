@@ -1,6 +1,6 @@
 # SP_mini-project_hadoop
 ## Post Sale Automobile Report
-![Design Blocks](https://www.tesla.com/xNVh4yUEc3B9/02_Desktop.jpg)
+![Design Blocks](https://cdn.autoversed.com/autoversed/wp-content/uploads/2020/08/shutterstock_1634989399-scaled.jpg)
 Image by: Tesla
 
 ## Table of contents
