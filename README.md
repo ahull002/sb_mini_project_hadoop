@@ -8,7 +8,7 @@ Image by: Tesla
 * [How to use this?](#how-to-use-this)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Local Execution](#local_execution)
+* [Local Execution](#local-execution)
 
 
 ## What is this?
